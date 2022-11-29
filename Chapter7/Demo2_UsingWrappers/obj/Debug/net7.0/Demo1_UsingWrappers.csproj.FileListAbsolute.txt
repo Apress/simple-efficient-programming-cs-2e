@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\bin\Debug\net7.0\Demo1_UsingWrappers.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\bin\Debug\net7.0\Demo1_UsingWrappers.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\bin\Debug\net7.0\Demo1_UsingWrappers.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\bin\Debug\net7.0\Demo1_UsingWrappers.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\bin\Debug\net7.0\Demo1_UsingWrappers.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\refint\Demo1_UsingWrappers.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\Demo1_UsingWrappers.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter7\Chapter7Solution\Demo1_UsingWrappers\obj\Debug\net7.0\ref\Demo1_UsingWrappers.dll

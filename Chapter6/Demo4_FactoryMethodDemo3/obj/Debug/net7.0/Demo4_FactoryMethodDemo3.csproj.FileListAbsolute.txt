@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\bin\Debug\net7.0\Demo4_FactoryMethodDemo3.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\bin\Debug\net7.0\Demo4_FactoryMethodDemo3.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\bin\Debug\net7.0\Demo4_FactoryMethodDemo3.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\bin\Debug\net7.0\Demo4_FactoryMethodDemo3.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\bin\Debug\net7.0\Demo4_FactoryMethodDemo3.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\refint\Demo4_FactoryMethodDemo3.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\Demo4_FactoryMethodDemo3.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo4_FactoryMethodDemo3\obj\Debug\net7.0\ref\Demo4_FactoryMethodDemo3.dll

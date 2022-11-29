@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\bin\Debug\net7.0\Demo2_FollowingSRP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\bin\Debug\net7.0\Demo2_FollowingSRP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\bin\Debug\net7.0\Demo2_FollowingSRP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\bin\Debug\net7.0\Demo2_FollowingSRP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\bin\Debug\net7.0\Demo2_FollowingSRP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\refint\Demo2_FollowingSRP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\Demo2_FollowingSRP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo2_FollowingSRP\obj\Debug\net7.0\ref\Demo2_FollowingSRP.dll

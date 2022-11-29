@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\bin\Debug\net7.0\Demo5_WithoutLSP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\bin\Debug\net7.0\Demo5_WithoutLSP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\bin\Debug\net7.0\Demo5_WithoutLSP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\bin\Debug\net7.0\Demo5_WithoutLSP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\bin\Debug\net7.0\Demo5_WithoutLSP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\refint\Demo5_WithoutLSP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\Demo5_WithoutLSP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo5_WithoutLSP\obj\Debug\net7.0\ref\Demo5_WithoutLSP.dll

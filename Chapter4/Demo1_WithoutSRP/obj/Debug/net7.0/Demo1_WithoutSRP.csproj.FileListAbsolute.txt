@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\bin\Debug\net7.0\Demo1_WithoutSRP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\bin\Debug\net7.0\Demo1_WithoutSRP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\bin\Debug\net7.0\Demo1_WithoutSRP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\bin\Debug\net7.0\Demo1_WithoutSRP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\bin\Debug\net7.0\Demo1_WithoutSRP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\refint\Demo1_WithoutSRP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\Demo1_WithoutSRP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo1_WithoutSRP\obj\Debug\net7.0\ref\Demo1_WithoutSRP.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\bin\Debug\net7.0\Demo1_WithoutFacade.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\bin\Debug\net7.0\Demo1_WithoutFacade.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\bin\Debug\net7.0\Demo1_WithoutFacade.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\bin\Debug\net7.0\Demo1_WithoutFacade.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\bin\Debug\net7.0\Demo1_WithoutFacade.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\refint\Demo1_WithoutFacade.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\Demo1_WithoutFacade.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter9\Chapter9Solution\Demo1_WithoutFacade\obj\Debug\net7.0\ref\Demo1_WithoutFacade.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\bin\Debug\net7.0\Demo1_SimpleFactory.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\bin\Debug\net7.0\Demo1_SimpleFactory.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\bin\Debug\net7.0\Demo1_SimpleFactory.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\bin\Debug\net7.0\Demo1_SimpleFactory.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\bin\Debug\net7.0\Demo1_SimpleFactory.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\refint\Demo1_SimpleFactory.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\Demo1_SimpleFactory.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo1_SimpleFactory\obj\Debug\net7.0\ref\Demo1_SimpleFactory.dll

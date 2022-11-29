@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\bin\Debug\net7.0\Demo2_BetterVersionOfDemo1.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\bin\Debug\net7.0\Demo2_BetterVersionOfDemo1.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\bin\Debug\net7.0\Demo2_BetterVersionOfDemo1.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\bin\Debug\net7.0\Demo2_BetterVersionOfDemo1.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\bin\Debug\net7.0\Demo2_BetterVersionOfDemo1.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\refint\Demo2_BetterVersionOfDemo1.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\Demo2_BetterVersionOfDemo1.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo2_BetterVersionOfDemo1\obj\Debug\net7.0\ref\Demo2_BetterVersionOfDemo1.dll

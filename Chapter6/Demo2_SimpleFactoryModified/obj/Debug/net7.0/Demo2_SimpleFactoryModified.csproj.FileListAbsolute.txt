@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\bin\Debug\net7.0\Demo2_SimpleFactoryModified.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\bin\Debug\net7.0\Demo2_SimpleFactoryModified.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\bin\Debug\net7.0\Demo2_SimpleFactoryModified.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\bin\Debug\net7.0\Demo2_SimpleFactoryModified.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\bin\Debug\net7.0\Demo2_SimpleFactoryModified.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\refint\Demo2_SimpleFactoryModified.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\Demo2_SimpleFactoryModified.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter6\Chapter6Solution\Demo2_SimpleFactoryModified\obj\Debug\net7.0\ref\Demo2_SimpleFactoryModified.dll

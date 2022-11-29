@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\bin\Debug\net7.0\Demo10_Alternative_FollowingDIP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\bin\Debug\net7.0\Demo10_Alternative_FollowingDIP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\bin\Debug\net7.0\Demo10_Alternative_FollowingDIP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\bin\Debug\net7.0\Demo10_Alternative_FollowingDIP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\bin\Debug\net7.0\Demo10_Alternative_FollowingDIP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\refint\Demo10_Alternative_FollowingDIP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\Demo10_Alternative_FollowingDIP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_Alternative_FollowingDIP\obj\Debug\net7.0\ref\Demo10_Alternative_FollowingDIP.dll

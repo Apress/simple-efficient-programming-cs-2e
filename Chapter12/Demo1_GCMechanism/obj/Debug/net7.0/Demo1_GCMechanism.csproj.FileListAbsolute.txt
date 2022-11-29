@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\bin\Debug\net7.0\Demo1_GCMechanism.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\bin\Debug\net7.0\Demo1_GCMechanism.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\bin\Debug\net7.0\Demo1_GCMechanism.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\bin\Debug\net7.0\Demo1_GCMechanism.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\bin\Debug\net7.0\Demo1_GCMechanism.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\refint\Demo1_GCMechanism.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\Demo1_GCMechanism.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo1_GCMechanism\obj\Debug\net7.0\ref\Demo1_GCMechanism.dll

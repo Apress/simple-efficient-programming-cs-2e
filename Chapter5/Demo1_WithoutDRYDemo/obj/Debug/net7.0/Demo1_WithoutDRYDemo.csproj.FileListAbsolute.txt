@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\bin\Debug\net7.0\Demo1_WithoutDRYDemo.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\bin\Debug\net7.0\Demo1_WithoutDRYDemo.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\bin\Debug\net7.0\Demo1_WithoutDRYDemo.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\bin\Debug\net7.0\Demo1_WithoutDRYDemo.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\bin\Debug\net7.0\Demo1_WithoutDRYDemo.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\refint\Demo1_WithoutDRYDemo.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\Demo1_WithoutDRYDemo.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo1_WithoutDRYDemo\obj\Debug\net7.0\ref\Demo1_WithoutDRYDemo.dll

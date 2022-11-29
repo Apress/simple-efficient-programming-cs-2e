@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\bin\Debug\net7.0\Demo6_FollowingLSP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\bin\Debug\net7.0\Demo6_FollowingLSP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\bin\Debug\net7.0\Demo6_FollowingLSP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\bin\Debug\net7.0\Demo6_FollowingLSP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\bin\Debug\net7.0\Demo6_FollowingLSP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\refint\Demo6_FollowingLSP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\Demo6_FollowingLSP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo6_FollowingLSP\obj\Debug\net7.0\ref\Demo6_FollowingLSP.dll

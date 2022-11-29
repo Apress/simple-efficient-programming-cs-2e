@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LocalNumberProcessor/1.0.0": {
+        "dependencies": {
+          "RemoteNumberProcessor": "1.0.0"
+        },
+        "runtime": {
+          "LocalNumberProcessor.dll": {}
+        }
+      },
+      "RemoteNumberProcessor/1.0.0": {
+        "runtime": {
+          "RemoteNumberProcessor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalNumberProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNumberProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

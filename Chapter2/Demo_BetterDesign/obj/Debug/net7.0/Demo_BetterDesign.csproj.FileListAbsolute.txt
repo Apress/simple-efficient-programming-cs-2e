@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\bin\Debug\net7.0\Demo_BetterDesign.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\bin\Debug\net7.0\Demo_BetterDesign.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\bin\Debug\net7.0\Demo_BetterDesign.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\bin\Debug\net7.0\Demo_BetterDesign.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\bin\Debug\net7.0\Demo_BetterDesign.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\refint\Demo_BetterDesign.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\Demo_BetterDesign.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo_BetterDesign\obj\Debug\net7.0\ref\Demo_BetterDesign.dll

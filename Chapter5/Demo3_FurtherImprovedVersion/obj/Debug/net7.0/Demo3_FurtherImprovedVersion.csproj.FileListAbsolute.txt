@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\bin\Debug\net7.0\Demo3_FurtherImprovedVersion.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\bin\Debug\net7.0\Demo3_FurtherImprovedVersion.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\bin\Debug\net7.0\Demo3_FurtherImprovedVersion.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\bin\Debug\net7.0\Demo3_FurtherImprovedVersion.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\bin\Debug\net7.0\Demo3_FurtherImprovedVersion.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\refint\Demo3_FurtherImprovedVersion.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\Demo3_FurtherImprovedVersion.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo3_FurtherImprovedVersion\obj\Debug\net7.0\ref\Demo3_FurtherImprovedVersion.dll

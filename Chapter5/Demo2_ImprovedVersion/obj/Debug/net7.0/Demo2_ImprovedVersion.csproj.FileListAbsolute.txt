@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\bin\Debug\net7.0\Demo2_ImprovedVersion.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\bin\Debug\net7.0\Demo2_ImprovedVersion.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\bin\Debug\net7.0\Demo2_ImprovedVersion.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\bin\Debug\net7.0\Demo2_ImprovedVersion.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\bin\Debug\net7.0\Demo2_ImprovedVersion.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\refint\Demo2_ImprovedVersion.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\Demo2_ImprovedVersion.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\Demo2_ImprovedVersion\obj\Debug\net7.0\ref\Demo2_ImprovedVersion.dll

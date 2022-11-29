@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\bin\Debug\net7.0\Demo3_HandlingTodoComments.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\bin\Debug\net7.0\Demo3_HandlingTodoComments.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\bin\Debug\net7.0\Demo3_HandlingTodoComments.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\bin\Debug\net7.0\Demo3_HandlingTodoComments.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\bin\Debug\net7.0\Demo3_HandlingTodoComments.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\refint\Demo3_HandlingTodoComments.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\Demo3_HandlingTodoComments.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter3\Chapter3Solution\Demo3_HandlingTodoComments\obj\Debug\net7.0\ref\Demo3_HandlingTodoComments.dll

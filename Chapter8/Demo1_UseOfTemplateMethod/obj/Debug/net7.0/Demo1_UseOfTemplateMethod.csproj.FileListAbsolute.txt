@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\bin\Debug\net7.0\Demo1_UseOfTemplateMethod.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\bin\Debug\net7.0\Demo1_UseOfTemplateMethod.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\bin\Debug\net7.0\Demo1_UseOfTemplateMethod.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\bin\Debug\net7.0\Demo1_UseOfTemplateMethod.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\bin\Debug\net7.0\Demo1_UseOfTemplateMethod.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\refint\Demo1_UseOfTemplateMethod.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\Demo1_UseOfTemplateMethod.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo1_UseOfTemplateMethod\obj\Debug\net7.0\ref\Demo1_UseOfTemplateMethod.dll

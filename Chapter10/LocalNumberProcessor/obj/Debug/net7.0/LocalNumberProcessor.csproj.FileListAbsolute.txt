@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\bin\Debug\net7.0\LocalNumberProcessor.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\bin\Debug\net7.0\LocalNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\bin\Debug\net7.0\LocalNumberProcessor.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.csproj.CopyComplete
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\refint\LocalNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\LocalNumberProcessor.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\obj\Debug\net7.0\ref\LocalNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\bin\Debug\net7.0\RemoteNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\LocalNumberProcessor\bin\Debug\net7.0\RemoteNumberProcessor.pdb

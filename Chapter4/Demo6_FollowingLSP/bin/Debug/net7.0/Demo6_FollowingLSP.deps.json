@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo6_FollowingLSP/1.0.0": {
+        "runtime": {
+          "Demo6_FollowingLSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo6_FollowingLSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

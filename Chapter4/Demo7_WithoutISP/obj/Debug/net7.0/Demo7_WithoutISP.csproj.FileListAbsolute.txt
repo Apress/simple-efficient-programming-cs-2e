@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\bin\Debug\net7.0\Demo7_WithoutISP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\bin\Debug\net7.0\Demo7_WithoutISP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\bin\Debug\net7.0\Demo7_WithoutISP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\bin\Debug\net7.0\Demo7_WithoutISP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\bin\Debug\net7.0\Demo7_WithoutISP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\refint\Demo7_WithoutISP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\Demo7_WithoutISP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo7_WithoutISP\obj\Debug\net7.0\ref\Demo7_WithoutISP.dll

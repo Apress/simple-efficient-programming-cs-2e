@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\bin\Debug\net7.0\Demo3_WithoutOCP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\bin\Debug\net7.0\Demo3_WithoutOCP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\bin\Debug\net7.0\Demo3_WithoutOCP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\bin\Debug\net7.0\Demo3_WithoutOCP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\bin\Debug\net7.0\Demo3_WithoutOCP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\refint\Demo3_WithoutOCP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\Demo3_WithoutOCP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo3_WithoutOCP\obj\Debug\net7.0\ref\Demo3_WithoutOCP.dll

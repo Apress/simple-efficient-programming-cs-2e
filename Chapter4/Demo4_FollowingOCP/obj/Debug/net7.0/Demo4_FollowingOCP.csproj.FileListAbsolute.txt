@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\bin\Debug\net7.0\Demo4_FollowingOCP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\bin\Debug\net7.0\Demo4_FollowingOCP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\bin\Debug\net7.0\Demo4_FollowingOCP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\bin\Debug\net7.0\Demo4_FollowingOCP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\bin\Debug\net7.0\Demo4_FollowingOCP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\refint\Demo4_FollowingOCP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\Demo4_FollowingOCP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo4_FollowingOCP\obj\Debug\net7.0\ref\Demo4_FollowingOCP.dll

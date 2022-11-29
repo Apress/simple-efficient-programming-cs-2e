@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\bin\Debug\net7.0\Demo1_WithoutPolymorphism.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\bin\Debug\net7.0\Demo1_WithoutPolymorphism.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\bin\Debug\net7.0\Demo1_WithoutPolymorphism.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\bin\Debug\net7.0\Demo1_WithoutPolymorphism.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\bin\Debug\net7.0\Demo1_WithoutPolymorphism.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\refint\Demo1_WithoutPolymorphism.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\Demo1_WithoutPolymorphism.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter1\Demo1_WithoutPolymorphism\obj\Debug\net7.0\ref\Demo1_WithoutPolymorphism.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\bin\Debug\net7.0\Demo3.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\bin\Debug\net7.0\Demo3.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\bin\Debug\net7.0\Demo3.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\bin\Debug\net7.0\Demo3.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\bin\Debug\net7.0\Demo3.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\refint\Demo3.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\Demo3.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter11\Chapter11Solution\Demo3\obj\Debug\net7.0\ref\Demo3.dll

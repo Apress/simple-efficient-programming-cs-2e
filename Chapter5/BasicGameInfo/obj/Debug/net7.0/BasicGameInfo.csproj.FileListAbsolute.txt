@@ -1,0 +1,12 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\bin\Debug\net7.0\BasicGameInfo.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\bin\Debug\net7.0\BasicGameInfo.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\bin\Debug\net7.0\BasicGameInfo.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\refint\BasicGameInfo.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\BasicGameInfo.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter5\Chapter5Solution\BasicGameInfo\obj\Debug\net7.0\ref\BasicGameInfo.dll

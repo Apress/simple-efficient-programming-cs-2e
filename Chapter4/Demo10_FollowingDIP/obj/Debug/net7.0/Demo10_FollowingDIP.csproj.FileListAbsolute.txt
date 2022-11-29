@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\bin\Debug\net7.0\Demo10_FollowingDIP.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\bin\Debug\net7.0\Demo10_FollowingDIP.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\bin\Debug\net7.0\Demo10_FollowingDIP.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\bin\Debug\net7.0\Demo10_FollowingDIP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\bin\Debug\net7.0\Demo10_FollowingDIP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\refint\Demo10_FollowingDIP.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\Demo10_FollowingDIP.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter4\Chapter4Solution\Demo10_FollowingDIP\obj\Debug\net7.0\ref\Demo10_FollowingDIP.dll

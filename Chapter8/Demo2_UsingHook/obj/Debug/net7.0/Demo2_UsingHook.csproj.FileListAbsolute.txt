@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\bin\Debug\net7.0\Demo2_UsingHook.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\bin\Debug\net7.0\Demo2_UsingHook.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\bin\Debug\net7.0\Demo2_UsingHook.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\bin\Debug\net7.0\Demo2_UsingHook.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\bin\Debug\net7.0\Demo2_UsingHook.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\refint\Demo2_UsingHook.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\Demo2_UsingHook.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter8\Chapter8Solution\Demo2_UsingHook\obj\Debug\net7.0\ref\Demo2_UsingHook.dll

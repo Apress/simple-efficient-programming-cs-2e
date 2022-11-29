@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\bin\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\bin\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\bin\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\bin\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\bin\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\refint\Demo1_AnalyzingMemoryLeaks.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\Demo1_AnalyzingMemoryLeaks.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter13\Chapter13Solution\Demo1_AnalyzingMemoryLeaks\obj\Debug\net7.0\ref\Demo1_AnalyzingMemoryLeaks.dll

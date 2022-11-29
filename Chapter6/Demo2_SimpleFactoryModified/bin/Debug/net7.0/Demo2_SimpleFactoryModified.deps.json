@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo2_SimpleFactoryModified/1.0.0": {
+        "runtime": {
+          "Demo2_SimpleFactoryModified.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo2_SimpleFactoryModified/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

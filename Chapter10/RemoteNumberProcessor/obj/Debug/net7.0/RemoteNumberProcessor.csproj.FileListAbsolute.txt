@@ -1,0 +1,12 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\bin\Debug\net7.0\RemoteNumberProcessor.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\bin\Debug\net7.0\RemoteNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\bin\Debug\net7.0\RemoteNumberProcessor.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\refint\RemoteNumberProcessor.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\RemoteNumberProcessor.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter10\Chapter10Solution\RemoteNumberProcessor\obj\Debug\net7.0\ref\RemoteNumberProcessor.dll

@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\bin\Debug\net7.0\Demo2_NonTLS_Version.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\bin\Debug\net7.0\Demo2_NonTLS_Version.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\bin\Debug\net7.0\Demo2_NonTLS_Version.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\bin\Debug\net7.0\Demo2_NonTLS_Version.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\bin\Debug\net7.0\Demo2_NonTLS_Version.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\refint\Demo2_NonTLS_Version.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\Demo2_NonTLS_Version.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter12\Chapter12Solution\Demo2_NonTLS_Version\obj\Debug\net7.0\ref\Demo2_NonTLS_Version.dll

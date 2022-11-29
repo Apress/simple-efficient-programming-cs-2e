@@ -1,0 +1,15 @@
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\bin\Debug\net7.0\Demo2.exe
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\bin\Debug\net7.0\Demo2.deps.json
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\bin\Debug\net7.0\Demo2.runtimeconfig.json
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\bin\Debug\net7.0\Demo2.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\bin\Debug\net7.0\Demo2.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.csproj.AssemblyReference.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.AssemblyInfoInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.AssemblyInfo.cs
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.csproj.CoreCompileInputs.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\refint\Demo2.dll
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.pdb
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\Demo2.genruntimeconfig.cache
+E:\MyPrograms\SimpleCSharp2E\Chapter2\Chapter2Solution\Demo2\obj\Debug\net7.0\ref\Demo2.dll
